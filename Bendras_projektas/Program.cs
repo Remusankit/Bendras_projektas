@@ -9,7 +9,7 @@ namespace Bendras_projektas
             int spindulis = 6371;
             double plotas = 3.14 * Math.Pow(2, spindulis);
             Console.WriteLine(plotas);
-            Console.WriteLine(plotas);
+            Console.WriteLine();
         }
     }
 }
