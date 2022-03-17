@@ -9,6 +9,20 @@ namespace Bendras_projektas
             int spindulis = 6371;
             double plotas = 3.14 * Math.Pow(2, spindulis);
             Console.WriteLine(plotas);
+<<<<<<< Updated upstream
+=======
+            Console.WriteLine();
+=======
+            int spindulys = 6371;
+            double plotas = 3.14 * Math.Pow(2, spindulys);
+            Console.WriteLine($"Plotass"{plotas});
+
+            int spindulys2 = 6371;
+            double rutulioTuris = 1.3 * 3.14 * Math.Pow(3, spindulys2);
+            Console.WriteLine(rutulioTuris);
+            
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
         }
     }
 }
